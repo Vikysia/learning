@@ -1,1 +1,2 @@
 Kakoito-text
+kakoito-text 2
